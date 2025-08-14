@@ -19,3 +19,6 @@ The synthetic data after just 20 epoch :
 
 <img width="620" height="550" alt="gan_fig2(200epoch)" src="https://github.com/user-attachments/assets/d0c874bd-ddbf-4393-95a7-e7f75f663d7f" />
 
+# GNN (GCN) for Classification (PubMed -dataset) 
+Final Test Accuracy: 0.7690
+<img width="1000" height="800" alt="gnn_pubMed" src="https://github.com/user-attachments/assets/e6087e60-9f3c-46d6-9797-dae7bb9b89fd" />
