@@ -69,3 +69,7 @@ best_model = random_search.best_estimator_
 test_acc = best_model.score(x_test, y_test)
 print(f"Test accuracy: {test_acc:.4f}")
 
+
+# The output:
+# Best Hyperparameters: {'model__pool_size': (2, 2), 'model__learning_rate': 0.001, 'model__kernel_size': (5, 5), 'model__filters': 32, 'epochs': 5, 'batch_size': 64}
+# Test accuracy: 0.9911
