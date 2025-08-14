@@ -22,3 +22,11 @@ The synthetic data after just 20 epoch :
 # GNN (GCN) for Classification (PubMed -dataset) 
 Final Test Accuracy: 0.7690
 <img width="1000" height="800" alt="gnn_pubMed" src="https://github.com/user-attachments/assets/e6087e60-9f3c-46d6-9797-dae7bb9b89fd" />
+# Node Classification with GCN on Karate Club Graph
+Before classification :
+
+<img width="800" height="600" alt="gnn1_fig1" src="https://github.com/user-attachments/assets/95af8750-991f-4425-b3d9-cd1f3d87f1b3" />
+
+The classified graph: 
+
+<img width="800" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/29cebb15-e609-4976-b4ae-b7518bc08e5e" />
