@@ -10,3 +10,12 @@ Best Hyperparameters:
 {'activation': 'tanh', 'batch_size': 16, 'dropout_rate': np.float64(0.11393512381599932), 'epochs': 100, 'num_layers': 2, 'optimizer': 'adam', 'units': 128}
 
 Test Loss: 0.0061
+# GAN (MNIST-dataset)
+The real dataset :
+
+<img width="630" height="500" alt="gan_fig1" src="https://github.com/user-attachments/assets/d7ebf7d2-742c-477f-bfe5-6a3fc65dd30e" />
+
+The synthetic data after just 20 epoch :
+
+<img width="620" height="550" alt="gan_fig2(200epoch)" src="https://github.com/user-attachments/assets/d0c874bd-ddbf-4393-95a7-e7f75f663d7f" />
+
